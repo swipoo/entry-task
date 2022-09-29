@@ -17,10 +17,10 @@ With the provided API and documentation, we'll create a very simple UI platform 
 
 Screen 1:
 - Input the necesary information to be able to select a car model and load its information.
-- Once you have selected a car model you should be able to "create/book" a car and store it along with the name of the client.
+- Once you have selected a car model you should be able to create a car and store it along with the name of the client.
 
 Screen 2:
-- Get and show the list of the "created/stored/booked" cars and their information plus new data that you need to calculate: for each year since the enrollment date, the vehicle receives 10% more depreciation applied to the standard value.
+- Get and show the list of the created cars and their stored information plus new data that you need to calculate: for each year since the enrollment date, the vehicle receives 10% more depreciation applied to the standard value.
 
 ##### Notes/Hints:
 
