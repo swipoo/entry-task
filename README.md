@@ -24,7 +24,7 @@ Screen 2:
 
 ##### Notes/Hints:
 
-> You should be able to understand which fields you need checking our documentation and understanding what does each endpoint needs.
+> You should be able to understand which fields you need by checking our documentation and understanding what each endpoint needs.
 
 > You can use the technology you feel more confortable with, but we recommend React.
 
